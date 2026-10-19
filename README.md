@@ -25,6 +25,7 @@ This add-on is independent and is not affiliated with or endorsed by SponsorBloc
 - *OperaGX "alt+s" shortcut works kinda weird, it starts both the popup and the browser history if pressed together, if first pressed alt and then "s" it works fine. Recommended to change shortcut to "ctrl+s"*
 - *Language button in the options page doesn't show the actual language sometimes. Initial state being "español" but the text shown will be in english if the browser has english as default language. When this happens the language button will work exactly opposite of how it should, saying "english" when displaying spanish text and vice versa.*
 - *When a promotional segment is skipped and directly followed by, for example, a self-promotional segment, the user has no way of "undoing" the skipping. Also, if the user clicks on the promotional segment it will always skip it no matter what. The ideal solution would be to, on the first hit, automatically skip, and if the user then clicks on any part of the promotional segment, or goes back and hits said segment for a second time, to let it play while showing the skip button*
-- *Should probably open some github issues for this if I find the time but meh*
+
+*Should probably open some github issues for this if I find the time but meh*
 
 </small>
